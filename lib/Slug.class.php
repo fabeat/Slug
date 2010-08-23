@@ -117,8 +117,6 @@ class Slug implements ArrayAccess
     'ŕ'=>'r'
   );
 
-  protected $max_length = null;
-
   /**
    * Constructor.
    *
